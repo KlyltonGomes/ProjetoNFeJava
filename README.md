@@ -27,18 +27,12 @@ criando os campos da Nfe;
 ➤ITENS DA NFE
 
     📍Dado do Produto
-    ↳🔗Detalhes Produto
-            ↳ tag prod
-                      >> Nó de dados do produto/serviço
-    ↳🔗Detalhes Produto
-            ↳ tag imposto
-                      >> Nó inicial dos Tributos incidentes no Produto ou Serviço do item da NFe
+                    ↳🔗Detalhes Produto
+                                        ↳ tag prod
+                                                  >> Nó de dados do produto/serviço
+                    ↳🔗Detalhes Produto
+                                        ↳ tag imposto
+                                                  >> Nó inicial dos Tributos incidentes no Produto
+                                                  ou Serviço do item da NFe
     
-📍ICMS
-  Todos os Campos
-            ↳ Informações do ICMS da Operação própria e ST
-📍
-📍
-📍
-📍
-📍
+📍ETC....
