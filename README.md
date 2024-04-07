@@ -17,14 +17,16 @@ criando os campos da Nfe;
       ↳ tag retirada
     📍Local de Entrega
       ↳ tag entrega
-➤ITENS DA NFE 📍📍
+      
+➤ITENS DA NFE
 
     📍Dado do Produto
     ↳🔗Detalhes Produto
             ↳ tag prod
+                      >> Nó de dados do produto/serviço
     ↳🔗Detalhes Produto
             ↳ tag imposto
-            Nó inicial dos Tributos incidentes no Produto ou Serviço do item da NFe
+                      >> Nó inicial dos Tributos incidentes no Produto ou Serviço do item da NFe
     
 📍ICMS
   Todos os Campos
