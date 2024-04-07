@@ -5,18 +5,24 @@ criando os campos da Nfe;
   ➤INDENTIFICAÇÃO  >> 📍CAMPO 
                         
     📍infNFe
-      ↳ contêm os dados dos campos
-        nomeados conforme manual
+            ↳ tag infNFe
+                      >> contêm os dados dos campos
+                                  
     📍ide 
-      ↳ Nó de identificação da NFe
+         ↳ Nó de identificação da NFe
+                                    >> nomeados conforme manual
     📍emitente
-      ↳ tag emit
+              ↳ tag emit
+                        >> Nó com os dados do emitente             
     📍Destinatário
-      ↳ tag dest   
+                  ↳ tag dest
+                            >> Nó com os dados do destinatário
     📍Local de Retirada
-      ↳ tag retirada
+                      ↳ tag retirada
+                                     >> Nó indicativo de local de retirada diferente do endereço do emitente
     📍Local de Entrega
-      ↳ tag entrega
+                      ↳ tag entrega
+                                    >> Node indicativo de local de entrega diferente do endereço do destinatário
       
 ➤ITENS DA NFE
 
