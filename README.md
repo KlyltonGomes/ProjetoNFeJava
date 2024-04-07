@@ -18,9 +18,8 @@ criando os campos da Nfe;
     📍Local de Entrega
       ↳ tag entrega
 ➤ITENS DA NFE 📍📍
-    📍Dado do Produto
-↘↘                    ↙↙
 
+    📍Dado do Produto
     ↳🔗Detalhes Produto
             ↳ tag prod
     ↳🔗Detalhes Produto
