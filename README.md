@@ -2,10 +2,10 @@
 Desenvolvimento de uma estrutura em Java, para a criação de um esqueleto da NFE( Nota Fiscal Eletrônica) usando Spring Boot
 criando os campos da Nfe;
   
-    ➤INDENTIFICAÇÃO  >> 📍CAMPO 
+  ➤INDENTIFICAÇÃO  >> 📍CAMPO 
                         
     📍infNFe
-      ↳ contêm os dados dos campos //  S  //   //TAG raiz da NF-e
+      ↳ contêm os dados dos campos
         nomeados conforme manual
     📍ide 
       ↳ Nó de identificação da NFe
